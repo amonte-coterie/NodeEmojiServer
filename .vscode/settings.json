@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "dist",
+    "appService.defaultWebAppToDeploy": "/subscriptions/991492fd-7342-4121-972a-c39ba99a5ed8/resourceGroups/hackathon-coterie-rg/providers/Microsoft.Web/sites/hackathon-coterie-emoticon"
+}
